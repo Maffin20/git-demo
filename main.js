@@ -1,3 +1,2 @@
-console.log("Hello")
-
-const name = "calvin"
+const myname = "calvin"
+window.alert(myname)
